@@ -5,8 +5,8 @@
     "games",
     "minecraft"
   ],
-  "logo": "https://raw.githubusercontent.com/Ren232/mcgg/master/logo.jpg",
-  "repository": "https://github.com/ren232/mcgg",
+  "logo": "https://raw.githubusercontent.com/vncspam/mcgg/master/logo.jpg",
+  "repository": "https://github.com/vncspam/mcgg",
   "env": {
     "MINECRAFT_EULA": {
       "description": "Do you accept the Minecraft EULA?",
@@ -35,7 +35,7 @@
       "url": "heroku/jvm"
     },
     {
-      "url": "https://github.com/ren232/mcgg"
+      "url": "https://github.com/vncspam/mcgg"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-php"
